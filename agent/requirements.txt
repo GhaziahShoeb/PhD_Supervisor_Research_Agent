@@ -1,0 +1,9 @@
+langchain_community
+langchain-core
+langgraph
+langchain_openai
+tavily-python
+bs4
+scipy
+langchainhub
+langchain_experimental
